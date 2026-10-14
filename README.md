@@ -1,6 +1,6 @@
 # E-Commerce Revenue & Customer Retention Analysis
 
-An end-to-end e-commerce analytics project focused on revenue performance, customer purchasing behavior, retention patterns, and customer segmentation using SQL, Python, and Power BI.
+An end-to-end e-commerce analytics project focused on revenue performance, customer purchasing behavior, retention patterns, and customer segmentation using SQL.
 
 ## Business Problem
 
@@ -20,8 +20,7 @@ This project analyzes transactional data to identify revenue trends, evaluate cu
 ## Tools & Technologies
 
 - **SQL (MySQL):** Data cleaning, transformations, KPI calculations, cohort analysis, and RFM segmentation.
-- **Python:** Data exploration and analysis.
-- **Power BI:** Interactive dashboards and business performance visualization.
+- **SQL techniques:** CTEs, window functions, aggregations, conditional logic, and date functions.
 
 ## Key Analyses
 
@@ -73,7 +72,5 @@ This highlights the potential business value of encouraging repeat purchases and
 ecommerce-revenue-retention-analysis/
 ├── data/
 ├── sql/
-├── python/
-├── powerbi/
 ├── docs/
 └── README.md
